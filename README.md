@@ -24,7 +24,7 @@ I combine my technical skills with real business experience—having launched an
 ### 🔹 Amazon Sales Analysis — SQL
 Advanced SQL analysis using window functions, MoM/YoY, segmentation, and basket analysis.
 
-🔗 Repo: (add once created)
+🔗 Repo: https://github.com/yashchoudharyanalytics/amazon-sales-sql-analysis.git
 
 ---
 

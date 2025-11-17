@@ -31,7 +31,7 @@ Advanced SQL analysis using window functions, MoM/YoY, segmentation, and basket 
 ### 🔹 Blinkit Sales Forecasting — Python + Power BI
 Built ARIMA/SARIMA forecasting models and Power BI dashboard.
 
-🔗 Repo: (add once created)
+🔗 Repo: https://github.com/yashchoudharyanalytics/blinkit-sales-forecasting.git
 
 ---
 

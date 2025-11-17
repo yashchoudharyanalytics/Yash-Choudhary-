@@ -51,4 +51,5 @@ Excel dashboard with KPIs, Power Query cleaning, and PivotTables.
 
 ## 📫 Contact
 📧 Email: yashcwork0761@gmail.com  
-🔗 LinkedIn: (add your LinkedIn link)  
+🔗 LinkedIn: www.linkedin.com/in/yash-choudhary-62a563338
+

@@ -38,8 +38,7 @@ Built ARIMA/SARIMA forecasting models and Power BI dashboard.
 ### 🔹 Retail Fashion Analytics — Python + Power BI
 Customer insights & product trends using EDA and BI visuals.
 
-🔗 Repo: (add once created)
-
+🔗 Repo: https://github.com/yashchoudharyanalytics/retail-fashion-analytics.git
 ---
 
 ### 🔹 Superstore Excel Dashboard

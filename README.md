@@ -13,7 +13,7 @@ I combine my technical skills with real business experience—having launched an
 ## 🔧 Technical Skills
 - **Languages:** SQL, Python  
 - **Python Libraries:** Pandas, NumPy, Statsmodels, Matplotlib  
-- **BI Tools:** Power BI, Excel (PivotTables, Power Query, Dashboards)  
+- **BI Tools:** Power BI, Excel (PivotTables, Power Query, Functions, Dashboards)  
 - **Concepts:** Forecasting (ARIMA/SARIMA), EDA, KPI Engineering, Data Modeling  
 - **Other:** Communication, Problem Solving, Business Strategy  
 

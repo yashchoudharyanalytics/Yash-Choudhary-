@@ -45,7 +45,7 @@ Customer insights & product trends using EDA and BI visuals.
 ### 🔹 Superstore Excel Dashboard
 Excel dashboard with KPIs, Power Query cleaning, and PivotTables.
 
-🔗 Repo: (add once created)
+🔗 Repo: https://github.com/yashchoudharyanalytics/Excel-Superstore-Dashboard-Pivot-Functions.git
 
 ---
 

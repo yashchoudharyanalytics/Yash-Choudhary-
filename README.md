@@ -22,6 +22,7 @@ Starts as a memory-aware conversational knowledge bot
 Scales into a multi-agent market intelligence pipeline (data collector → analyst → orchestrator)
 
 Designed with a focus on agent roles, reasoning flow, and real-world architecture rather than isolated demos.
+https://github.com/yashchoudharyanalytics/Soulpage-genai-assignment-yash-choudhary.git
 
 🔗 Pinned repository
 

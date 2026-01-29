@@ -1,55 +1,68 @@
-# Yash-Choudhary-
-# 👋 Hi, I'm Yash Choudhary  
-### Data Analyst | Business Analyst | SQL • Python • Power BI • Excel  
-📍 Pune, India  
+👋 Hi, I’m Yash Choudhary
+Data Analyst → GenAI Practitioner
 
-I’m a Data Analyst passionate about using data to solve business problems.  
-I work with SQL, Python, Power BI, and Excel to build analytical solutions, dashboards, and forecasting models.
+SQL • Python • Power BI • Excel • LangChain
+📍 Pune, India
 
-I combine my technical skills with real business experience—having launched and managed a clothing brand—to analyze customer behaviour, sales trends, and operational metrics.
+I’m a Data Analyst with a growing focus on Generative AI, working at the intersection of data, business, and intelligent systems.
 
----
+I primarily work with SQL, Python, Power BI, and Excel to solve business problems through data. Recently, I’ve been extending this skill set to LLM-powered applications, building conversational agents and multi-agent systems using LangChain, with tools, memory, and orchestration.
 
-## 🔧 Technical Skills
-- **Languages:** SQL, Python  
-- **Python Libraries:** Pandas, NumPy, Statsmodels, Matplotlib  
-- **BI Tools:** Power BI, Excel (PivotTables, Power Query, Functions, Dashboards)  
-- **Concepts:** Forecasting (ARIMA/SARIMA), EDA, KPI Engineering, Data Modeling  
-- **Other:** Communication, Problem Solving, Business Strategy  
+I also bring hands-on business experience from launching and managing a clothing brand, which helps me approach analytics with a strong business-first mindset.
 
----
+⭐ Featured Projects
+🔹 Unified GenAI System — Conversational Bot & Multi-Agent Intelligence
 
-## 📊 Projects
+LangChain • Tools • Memory • Streamlit
 
-### 🔹 Amazon Sales Analysis — SQL
-Advanced SQL analysis using window functions, MoM/YoY, segmentation, and basket analysis.
+Built a unified GenAI system that:
 
-🔗 Repo: https://github.com/yashchoudharyanalytics/amazon-sales-sql-analysis.git
+Starts as a memory-aware conversational knowledge bot
 
----
+Scales into a multi-agent market intelligence pipeline (data collector → analyst → orchestrator)
 
-### 🔹 Blinkit Sales Forecasting — Python + Power BI
-Built ARIMA/SARIMA forecasting models and Power BI dashboard.
+Designed with a focus on agent roles, reasoning flow, and real-world architecture rather than isolated demos.
 
-🔗 Repo: https://github.com/yashchoudharyanalytics/blinkit-sales-forecasting.git
+🔗 Pinned repository
 
----
+🔹 Amazon Sales Analysis — SQL
 
-### 🔹 Retail Fashion Analytics — Python + Power BI
-Customer insights & product trends using EDA and BI visuals.
+Advanced SQL • Business Metrics
 
-🔗 Repo: https://github.com/yashchoudharyanalytics/retail-fashion-analytics.git
+Performed advanced SQL analysis using:
 
----
+Window functions
 
-### 🔹 Superstore Excel Dashboard
-Excel dashboard with KPIs, Power Query cleaning, and PivotTables.
+MoM / YoY growth
 
-🔗 Repo: https://github.com/yashchoudharyanalytics/Excel-Superstore-Dashboard-Pivot-Functions.git
+Customer segmentation
 
----
+Basket analysis
 
-## 📫 Contact
-📧 Email: yashcwork0761@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/yash-choudhary-62a563338
+Focused on extracting business insights from raw transactional data.
 
+🔗 https://github.com/yashchoudharyanalytics/amazon-sales-sql-analysis.git
+
+🔹 Blinkit Sales Forecasting — Python + Power BI
+
+Time Series • Forecasting • BI
+
+Built ARIMA/SARIMA forecasting models and an interactive Power BI dashboard to analyze and predict sales trends.
+
+🔗 https://github.com/yashchoudharyanalytics/blinkit-sales-forecasting.git
+
+📁 Other Work
+
+In addition to the projects above, my GitHub includes:
+
+Multiple data analysis projects using Python, SQL, Excel, and Power BI
+
+Work focused on EDA, dashboards, KPI tracking, and business analytics
+
+(Selected projects are pinned for clarity.)
+
+📫 Contact
+
+📧 Email: yashcwork0761@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/yash-choudhary-62a563338

@@ -66,4 +66,4 @@ Work focused on EDA, dashboards, KPI tracking, and business analytics
 
 📧 Email: yashcwork0761@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/yash-choudhary-62a563338
+🔗 LinkedIn: www.linkedin.com/in/yaash-choudharyy
